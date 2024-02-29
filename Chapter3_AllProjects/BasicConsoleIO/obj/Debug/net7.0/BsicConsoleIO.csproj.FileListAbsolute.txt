@@ -1,0 +1,14 @@
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\bin\Debug\net7.0\BsicConsoleIO.exe
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\bin\Debug\net7.0\BsicConsoleIO.deps.json
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\bin\Debug\net7.0\BsicConsoleIO.runtimeconfig.json
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\bin\Debug\net7.0\BsicConsoleIO.dll
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\bin\Debug\net7.0\BsicConsoleIO.pdb
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net7.0\BsicConsoleIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net7.0\BsicConsoleIO.AssemblyInfoInputs.cache
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net7.0\BsicConsoleIO.AssemblyInfo.cs
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net7.0\BsicConsoleIO.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net7.0\BsicConsoleIO.dll
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net7.0\refint\BsicConsoleIO.dll
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net7.0\BsicConsoleIO.pdb
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net7.0\BsicConsoleIO.genruntimeconfig.cache
+C:\Users\User\Documents\MyFiles\VSC_projects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net7.0\ref\BsicConsoleIO.dll
