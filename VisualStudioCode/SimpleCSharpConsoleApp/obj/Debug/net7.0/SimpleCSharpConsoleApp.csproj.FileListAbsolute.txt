@@ -1,0 +1,14 @@
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\bin\Debug\net7.0\SimpleCSharpConsoleApp.exe
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\bin\Debug\net7.0\SimpleCSharpConsoleApp.deps.json
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\bin\Debug\net7.0\SimpleCSharpConsoleApp.runtimeconfig.json
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\bin\Debug\net7.0\SimpleCSharpConsoleApp.dll
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\bin\Debug\net7.0\SimpleCSharpConsoleApp.pdb
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net7.0\SimpleCSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net7.0\SimpleCSharpConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net7.0\SimpleCSharpConsoleApp.AssemblyInfo.cs
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net7.0\SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net7.0\SimpleCSharpConsoleApp.dll
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net7.0\refint\SimpleCSharpConsoleApp.dll
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net7.0\SimpleCSharpConsoleApp.pdb
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net7.0\SimpleCSharpConsoleApp.genruntimeconfig.cache
+C:\Users\User\Documents\MyFiles\VSC_projects\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net7.0\ref\SimpleCSharpConsoleApp.dll
